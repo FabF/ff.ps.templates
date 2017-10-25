@@ -1,0 +1,7 @@
+# Don't checkin this output dir
+Release/
+[Ff]iles/
+[Ww]ork
+
+# Auto-generated test file
+foo[1].ps1
